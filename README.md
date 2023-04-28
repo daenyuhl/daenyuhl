@@ -3,7 +3,7 @@
 <h2>About Me</h2>
 🎓 An IT student from Quezon City with years of experience developing different systems.<br>
 💻 I'm a software dev and database administrator.<br>
-✔ All of my credentials are available ob LinkedIn @daenyuhl.<br>
+✔ All of my credentials are available of LinkedIn @daenyuhl.<br>
 🔫 Valo? Tara G!
 
 <!---
